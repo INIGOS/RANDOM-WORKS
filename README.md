@@ -17,4 +17,6 @@ netcheck--half way process(dummy)
 
 EXTRACTION OF SMILEY AND ACRO - Returns all the smileys and acro in dict format 
 
-ThriftInterface - extract of smiley and acro in python and calling it using java client 
+ThriftInterface - extract of smiley and acro in python and calling it using java client
+
+KAFKA and SPARK -- few codes to get data from twitter , push to kafka , then to spark and then to kafka (and to elasticsearch(trying))
